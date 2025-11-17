@@ -14,7 +14,7 @@
 | **Oct 20-22** | [Repo Deconstruct] <br> [Repo Deconstruct] | Tech Talks |  |
 | **Oct 27-29** | [EffPagedAttn](https://chatgpt.com/share/690b7c08-dd54-8000-96ea-278ffa62bf00), [EffLLMServ](https://arxiv.org/abs/2503.18292) <br>[NvidiaAmpere](https://arxiv.org/abs/2208.11174), [AMDsDTW](https://arxiv.org/abs/2403.06931) |Papers and Discussion | [EffPagedAttn](https://arxiv.org/abs/2309.06180), [EffLLMServ](https://chatgpt.com/share/690b7f61-0bf8-8000-85ea-ed8e1c4af656) <br>[NvidiaAmpere](https://chatgpt.com/share/690b8695-733c-8000-8128-b41a174d5adf), [AMDsDTW](https://chatgpt.com/share/690b8a4f-81c4-8000-b920-ede8aae69ddd)
 | **Nov 3-5** | Group Presentations<br>Group Presentations | Updates |  |
-| **Nov 10-12** | [TPUs](https://arxiv.org/abs/2304.01433), [MTIA](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) <br>[MLFleet](https://arxiv.org/pdf/2502.06982) + [Special Guest?] | Papers and Discussion|  |
+| **Nov 10-12** | [TPUs](https://arxiv.org/abs/2304.01433), [MTIA](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) <br>[MLFleet](https://arxiv.org/pdf/2502.06982) + [Special Guest?] | Papers and Discussion| [TPUs](https://chatgpt.com/share/691a7e32-02e0-8000-8ffc-5d4b5ca86b4b), [MTIA](https://chatgpt.com/share/691a8000-41c4-8000-a727-6debf58151b9) <br>[MLFleet](https://chatgpt.com/share/691a96f2-4e58-8000-ba82-88ec92f2a9e3) |
 | **Nov 17-19** | [Repo Deconstruct] <br> [Repo Deconstruct] | Papers and Discussion|  |
 | **Nov 24-26** | Flex Day <br>Thanksgiving Recess (Holiday) | Presentations |  |
 | **Dec 1-3** | Final Project Presentations<br>Course Wrap-up & Future Directions | Presentations | |
